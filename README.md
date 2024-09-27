@@ -24,7 +24,7 @@ Los hitos para la realización del proyecto son los siguientes:
 * [Hito 4: Composición de servicios](hitos/4.Contenedores.md). 
 * [Hito 5: Despliegue de la aplicación en un PaaS](hitos/5.Despliegue.md). 
 
-[Los hitos del proyecto se entregan actualizando los ficheros disponibles en la carpeta proyectos asociados a cada hito y haciendo un pull request](proyectos/README.md)
+Los hitos del proyecto se entregan actualizando los ficheros disponibles en la carpeta [proyectos](proyectos/README.md) asociados a cada hito y haciendo un pull request.
 
 
 ## Enlaces al material de prácticas
