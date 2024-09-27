@@ -1,0 +1,48 @@
+# Node Modules
+node_modules/
+
+# Build directories
+dist/
+build/
+out/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage output
+coverage/
+
+# IDE and configuration files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Other files
+*.swp
+*.lock
+*.pem
+
+# Task-related
+*.tgz
+
+# Jest test results
+jest-results.json
