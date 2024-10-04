@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre              | Enlace proyecto                                                         | Versión        |
 | ------------------- | ----------------------------------------------------------------------- | -------------- |
 | D. G-V. RAFAEL      | <!--enlace-->                                                           | <!--versión--> |
-| D. D. ISMAEL        | [RECEPITA](https://github.com/MiixZ/CC-24-25.git)                       | 0.1.           |
+| D. D. ISMAEL        | [RECEPITA](https://github.com/MiixZ/recepita)                           | 0.1.           |
 | G. L. FELIPE        | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE         | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU           | <!--enlace-->                                                           | <!--versión--> |
@@ -37,7 +37,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. MARIO         | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO         | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
-| P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
+| P. M. ALBERTO       | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAUL          | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO     | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL        | <!--enlace-->                                                           | <!--versión--> |
