@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
-| D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. D. ISMAEL | [RECEPITA] (https://github.com/MiixZ/recepita)                                                          | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
