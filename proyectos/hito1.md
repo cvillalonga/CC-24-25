@@ -26,7 +26,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
-| C. MARINA | <!--enlace-->                                                           | <!--versión--> |
+| C. MARINA | [BrushNBid](https://github.com/marinajcs/BrushNBid)                           | v1.0.0 |
 | de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
