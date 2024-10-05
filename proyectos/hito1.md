@@ -27,7 +27,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | <!--enlace-->                                                           | <!--versión--> |
-| de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
+| de la V. CARLOTA | [CardTrading](https://github.com/carlotiii30/CardTrading)         | v1.0.0 |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
