@@ -39,7 +39,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
-| R. F. RAUL | <!--enlace-->                                                           | <!--versión--> |
+| R. F. RAUL | [MyGymBro](https://github.com/RaulRF02/MyGymBro)                        | 1.0.0          |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
