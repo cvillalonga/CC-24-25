@@ -32,7 +32,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
-| G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
+| G-G. M. ADRIANO | [Gestión de Peñas de Fútbol ](https://github.com/adrianoggm/CC.2024-2025.Gestion-de-penas-de-futbol.git) | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
