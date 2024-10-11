@@ -4,7 +4,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. G-V. RAFAEL | <!--enlace-->    https://github.com/rafadgvc/CC-app.git               | <!--versión-->  1.0.0 |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
