@@ -23,7 +23,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
-| --------------- | ----------------------------------------------------------------------- | -------------- |
+| --------------- | ----------------------------------------------------------------------- | 0.0.0 |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
@@ -38,7 +38,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
-| P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
+| P. M. ALBERTO | [Worl Wide Trade](https://github.com/RedRiotTank/WorldWideTrade)                                                           | <!--versión--> |
 | R. F. RAUL | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
