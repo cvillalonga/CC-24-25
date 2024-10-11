@@ -26,6 +26,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
+| C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | <!--enlace-->                                                           | <!--versión--> |
 | de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
@@ -42,3 +43,4 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
+| Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
