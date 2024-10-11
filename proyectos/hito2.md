@@ -23,7 +23,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
-| --------------- | ----------------------------------------------------------------------- | 0.0.0 |
+| --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
