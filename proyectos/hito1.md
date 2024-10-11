@@ -15,7 +15,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
-| O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
+| O. R. ALVARO | https://github.com/aordonez24/ProyectoCC-24-25.git                                                        | v1.0 |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
