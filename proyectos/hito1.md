@@ -24,7 +24,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
+| B. M. ANGEL | [<!--enlace-->](https://github.com/Angburmun/image-sequence-classifier)    | 0.1 |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | <!--enlace-->                                                           | <!--versión--> |
