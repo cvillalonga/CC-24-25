@@ -25,7 +25,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
-| C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
+| C. G. ENRIQUE | [WatchIT](https://github.com/cgenrique/WatchIT/tree/main/hito1)    | 1.0.0 |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | <!--enlace-->                                                           | <!--versión--> |
 | de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
