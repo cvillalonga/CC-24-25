@@ -43,4 +43,4 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
-| Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
+| Z. BENEDIKT | https://github.com/BenediktZanker/CasaCue | 0.0.1-development |
