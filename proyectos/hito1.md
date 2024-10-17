@@ -17,7 +17,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
-| R. OMID | <!--enlace-->                                                           | <!--versión--> |
+| R. OMID | https://github.com/omiidos/CC24-PoDeMaster                                                     | Version 1.0 |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
