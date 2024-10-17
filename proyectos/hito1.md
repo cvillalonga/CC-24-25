@@ -32,7 +32,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
-| L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
+| L. V. ALEJANDRO | https://github.com/alvargas02Uni/AttendaceRecords                                                           | v1.0|
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
