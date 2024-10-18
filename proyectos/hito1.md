@@ -17,7 +17,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | https://github.com/aordonez24/ProyectoCC-24-25.git                                                        | v1.0 |                                                       | <!--versión--> |
 | P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v0.0.1 |
-| R. OMID | <!--enlace-->                                                           | <!--versión--> |
+| R. OMID | https://github.com/omiidos/CC24-PoDeMaster                                                     | Version 1.0 |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | [PlantSwap](https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-1)                                                           | v0.0.1.       |
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
