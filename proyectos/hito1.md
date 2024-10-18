@@ -24,7 +24,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. VICTOR LUIS | [Toolshare](https://github.com/ge65luz/ToolShare)                       | 0.0.1 |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
+| B. M. ANGEL | https://github.com/Angburmun/image-sequence-classifier                      | 0.1 |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | [BrushNBid](https://github.com/marinajcs/BrushNBid)                           | v1.0.0 |
