@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. W. IRENE | <!--enlace--> [Artigow](https://github.com/irenegowh/Artigow)                                                          | <!--versión--> 1.0.0|
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
 | H. C. SERGIO | [WildHaven](https://github.com/SergioHrvas/CloudComputing1MII)               | v0.1 |
-| L. B. JOSE ANTONIO | <!--enlace-->                                                           | <!--versión--> |
+| L. B. JOSE ANTONIO | <!--https://github.com/L-a-s-s-y/Proyecto-CC-->                                                           | <!--versión--> |
 | L. C. VENTURA | [AIChronos](https://github.com/v-lastrucci-c/MII_CC_UGR)                         | v0.0.1 |
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
