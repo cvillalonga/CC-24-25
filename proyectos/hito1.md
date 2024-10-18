@@ -2,8 +2,8 @@
 
 Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
-| Nombre       | Enlace proyecto                                                                    | Versión      |
-| --------------- | ----------------------------------------------------------------------- | -------------- |
+| Nombre       | Enlace proyecto                                                         | Versión       |
+| --------------- |-------------------------------------------------------------------------|---------------|
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
 | D. D. ISMAEL        | [RECEPITA](https://github.com/MiixZ/recepita)                           | 0.1.           |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
@@ -19,7 +19,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v0.0.1 |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
-| S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
+| S. L. RAOUL | [PlantSwap](https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-1)                                                           | v0.0.1.       |
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
