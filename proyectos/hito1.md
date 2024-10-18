@@ -34,7 +34,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | [Gestión de Peñas de Fútbol ](https://github.com/adrianoggm/CC.2024-2025.Gestion-de-penas-de-futbol.git) | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
-| M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
+| M. G. ANTONIO JOSE | [Paquito Flores](https://github.com/tosito1/Cloud-Computing/tree/main)                                                           | 1.0 |
 | M. S. MARIO | https://github.com/martinezmario02/StarsBar.git                                                           | 1.0 |
 | O. G. BRUNO | https://github.com/YordanoBOG/CC-Practicas-24-25                           | 1.0 |
 | P. H. ALFONSO JESUS | [Fingesco](https://github.com/AlfonsoJPH/fingesco)              | 0.0.0 |
