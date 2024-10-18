@@ -25,7 +25,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | https://github.com/Angburmun/image-sequence-classifier                      | 0.1 |
-| C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
+| C. G. ENRIQUE | [WatchIT](https://github.com/cgenrique/WatchIT/tree/main/hito1)    | 1.0.0 |
 | C. R. ALEXANDER | [MovieBuster](https://github.com/AlexColladodev/MovieBuster/tree/main/hito1)                                                           | 0.1 |
 | C. MARINA | [BrushNBid](https://github.com/marinajcs/BrushNBid)                           | v1.0.0 |
 | de la V. CARLOTA | [CardTrading](https://github.com/carlotiii30/CardTrading)         | v1.0.0 |
