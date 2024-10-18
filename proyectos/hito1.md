@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
-| D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. D. ISMAEL        | [RECEPITA](https://github.com/MiixZ/recepita)                           | 0.1.           |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
@@ -16,7 +16,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
-| P. JAN | <!--enlace-->                                                           | <!--versión--> |
+| P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v0.0.1 |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
@@ -26,6 +26,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
+| C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | <!--enlace-->                                                           | <!--versión--> |
 | de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
@@ -35,10 +36,11 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. MARIO | https://github.com/martinezmario02/StarsBar.git                                                           | 1.0 |
-| O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
+| O. G. BRUNO | https://github.com/YordanoBOG/CC-Practicas-24-25                           | 1.0 |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAUL | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
+| Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
