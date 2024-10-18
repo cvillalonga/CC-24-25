@@ -22,7 +22,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. L. RAOUL | [PlantSwap](https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-1)                                                           | v0.0.1.       |
 | S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | [Toolshare](https://github.com/ge65luz/ToolShare)                       | 0.0.1 |
-| V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
+| V. M. ANA LUCIA | [QuizWiz](https://github.com/anaviico/QuizWiz)| v0.0.1 |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | B. M. ANGEL | https://github.com/Angburmun/image-sequence-classifier                      | 0.1 |
 | C. G. ENRIQUE | [WatchIT](https://github.com/cgenrique/WatchIT/tree/main/hito1)    | 1.0.0 |
