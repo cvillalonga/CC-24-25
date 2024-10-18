@@ -5,7 +5,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
-| D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. D. ISMAEL        | [RECEPITA](https://github.com/MiixZ/recepita)                           | 0.1.           |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
@@ -16,7 +16,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
-| P. JAN | <!--enlace-->                                                           | <!--versión--> |
+| P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v0.0.1 |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
@@ -28,15 +28,15 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER | <!--enlace-->                                                           | <!--versión--> |
 | C. MARINA | [BrushNBid](https://github.com/marinajcs/BrushNBid)                           | v1.0.0 |
-| de la V. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
+| de la V. CARLOTA | [CardTrading](https://github.com/carlotiii30/CardTrading)         | v1.0.0 |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
-| M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
-| O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
+| M. S. MARIO | https://github.com/martinezmario02/StarsBar.git                                                           | 1.0 |
+| O. G. BRUNO | https://github.com/YordanoBOG/CC-Practicas-24-25                           | 1.0 |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAUL | <!--enlace-->                                                           | <!--versión--> |
