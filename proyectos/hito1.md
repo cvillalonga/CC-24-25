@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. P. JAVIER |[SharCar](https://github.com/javigp2002/Sharcar)                | v0.0.1 |
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | [Gestión de Peñas de Fútbol ](https://github.com/adrianoggm/CC.2024-2025.Gestion-de-penas-de-futbol.git) | <!--versión--> |
-| L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
+| L. V. ALEJANDRO | https://github.com/alvargas02Uni/AttendaceRecords                                                           | v1.0|
 | M. G. ANTONIO JOSE | [Paquito Flores](https://github.com/tosito1/Cloud-Computing/tree/main)                                                           | 1.0 |
 | M. S. MARIO | https://github.com/martinezmario02/StarsBar.git                                                           | 1.0 |
 | O. G. BRUNO | https://github.com/YordanoBOG/CC-Practicas-24-25                           | 1.0 |
