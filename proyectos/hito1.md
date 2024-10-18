@@ -37,7 +37,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | M. S. MARIO | https://github.com/martinezmario02/StarsBar.git                                                           | 1.0 |
 | O. G. BRUNO | https://github.com/YordanoBOG/CC-Practicas-24-25                           | 1.0 |
-| P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
+| P. H. ALFONSO JESUS | [Fingesco](https://github.com/AlfonsoJPH/fingesco)              | 0.0.0 |
 | P. M. ALBERTO | [Worl Wide Trade](https://github.com/RedRiotTank/WorldWideTrade)   | 0.0.0|
 | R. F. RAUL | [MyGymBro](https://github.com/RaulRF02/MyGymBro)                        | 1.0.0          |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
