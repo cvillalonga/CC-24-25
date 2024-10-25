@@ -10,17 +10,14 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. W. IRENE | <!--enlace--> [Artigow](https://github.com/irenegowh/Artigow)                                                          | <!--versión--> 1.0.0|
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
 | H. C. SERGIO | [WildHaven](https://github.com/SergioHrvas/CloudComputing1MII)               | v0.1 |
-| L. B. JOSE ANTONIO | <!--https://github.com/L-a-s-s-y/Proyecto-CC-->                                                           | <!--versión--> |
+| L. B. JOSE ANTONIO | [https://github.com/L-a-s-s-y/Proyecto-CC](https://github.com/L-a-s-s-y/Proyecto-CC)                       | <!--versión--> |
 | L. C. VENTURA | [AIChronos](https://github.com/v-lastrucci-c/MII_CC_UGR)                         | v0.0.1 |
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
-| M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | https://github.com/aordonez24/ProyectoCC-24-25.git                                                        | v1.0 |                                                       | <!--versión--> |
 | P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v0.0.1 |
 | R. OMID | https://github.com/omiidos/CC24-PoDeMaster                                                     | Version 1.0 |
-| R. S. UNAI | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | [PlantSwap](https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-1)                                                           | v0.0.1.       |
-| S. O. JUAN | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | [Toolshare](https://github.com/ge65luz/ToolShare)                       | 0.0.1 |
 | V. M. ANA LUCIA | [QuizWiz](https://github.com/anaviico/QuizWiz)| v0.0.1 |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
@@ -44,3 +41,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. R. ISMAEL | [VolleyConnect ](https://github.com/ismeh/VolleyConnect)                                                           | 0.1 |
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
 | Z. BENEDIKT | https://github.com/BenediktZanker/CasaCue | 0.0.1-development |
+| --------------- | ----------------------------------------------------------------------- | -------------- |
+| A. HADROUG | <!--enlace-->                                                           | <!--versión--> |
+| A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
+| G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
+| T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
