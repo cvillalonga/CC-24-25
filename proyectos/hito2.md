@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
-| de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
+| de la V. S. CARLOTA | [CardTrading](https://github.com/carlotiii30/CardTrading)     | v2.0.0 |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
