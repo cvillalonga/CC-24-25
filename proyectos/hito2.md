@@ -29,6 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
+| P. JAN | [NutriNube](https://github.com/pfeifer-j/CC-24-25_NutriNube/) | <!--version--> v1.1.0 |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
