@@ -42,7 +42,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. VICTOR | <!--enlace-->                                                           | <!--versión--> |
 | Z. BENEDIKT | https://github.com/BenediktZanker/CasaCue | 0.0.1-development |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| A. HADROUG | <!--enlace-->                                                           | <!--versión--> |
+| A. HADROUG | <!--enlace-->    https://github.com/abdelmounaim34/cloudcomuting.git        | 0.1 |
 | A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
 | G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
