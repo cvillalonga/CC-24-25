@@ -25,7 +25,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
-| M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
+| M. G. ANTONIO JOSE | [Paquito Flores](https://github.com/tosito1/Cloud-Computing/tree/main) | 2.0 |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
