@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
-| D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. G-V. RAFAEL | [StratExam](https://github.com/rafadgvc/CC-app.git)                  | 0.0.2 |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
