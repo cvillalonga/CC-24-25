@@ -37,8 +37,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
-| V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
-| V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
+| V. VICTOR LUIS | <!--enlace-->                                                           | v0.0.1 |
+| V. M. ANA LUCIA | [QuizWiz](https://github.com/anaviico/QuizWiz)                         | <!--versión--> |
 | Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
