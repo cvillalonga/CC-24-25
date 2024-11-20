@@ -42,3 +42,5 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
+| G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
