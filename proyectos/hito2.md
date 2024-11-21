@@ -23,8 +23,8 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. B. JOSE ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | L. C. VENTURA | <!--enlace-->                                                           | <!--versión--> |
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
-| L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
-| M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
+| L. V. ALEJANDRO | [<!--enlace-->](https://github.com/alvargas02Uni/AttendaceRecords)                                                           | v0.1.0 |
+| M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |<
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
