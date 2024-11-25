@@ -1,4 +1,4 @@
-# Hito 2
+# Hito 3
 
 Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
@@ -11,8 +11,10 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
+| del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
@@ -25,8 +27,9 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
+| M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
-| O. R. ALVARO | https://github.com/aordonez24/ProyectoCC-24-25.git                                                           | v2.0 |
+| O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
@@ -40,7 +43,3 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
-| --------------- | ----------------------------------------------------------------------- | -------------- |
-| M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
-| del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
-| G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
