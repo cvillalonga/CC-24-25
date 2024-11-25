@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
-| O. R. ALVARO | [<!--enlace--> ](https://github.com/aordonez24/ProyectoCC-24-25.git)                                                          |v3.0|
+| O. R. ALVARO | https://github.com/aordonez24/ProyectoCC-24-25.git                                                          |v3.0|
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
