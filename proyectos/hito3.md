@@ -42,4 +42,4 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
-| Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
+| Z. BENEDIKT | [CasaCue](https://github.com/BenediktZanker/CasaCue) | 0.0.3-hito3 |
