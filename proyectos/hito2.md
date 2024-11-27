@@ -6,7 +6,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --------------- | ----------------------------------------------------------------------- | -------------- |
 | A. HADROUG | <!--enlace-->                                                           | <!--versión--> |
 | A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
-| B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
+| B. M. ANGEL | <!--enlace--> [image-sequence-classifier](https://github.com/Angburmun/image-sequence-classifier) | 2.01 |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
