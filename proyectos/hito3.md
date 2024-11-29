@@ -36,7 +36,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
-| R. F. RAÚL | <!--enlace-->                                                           | <!--versión--> |
+| R. F. RAÚL | [MyGymBro](https://github.com/RaulRF02/MyGymBro)                         | 3.0.0          |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
