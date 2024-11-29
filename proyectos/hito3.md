@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
-| P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
+| P. M. ALBERTO | [WorldWideTrade](https://github.com/RedRiotTank/WorldWideTrade)                                                        | 0.0.2 |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAÚL | <!--enlace-->                                                           | <!--versión--> |
