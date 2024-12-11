@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
-| P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
+| P. H. ALFONSO JESUS | [Fingesco](https://github.com/AlfonsoJPH/fingesco)         | 0.0.0 |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
