@@ -8,7 +8,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
 | C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
-| C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
+| C. S. MARINA JUN | [BrushNBid](https://github.com/marinajcs/BrushNBid)                   | v3.0.0 |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
