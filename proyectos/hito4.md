@@ -33,7 +33,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
-| R. OMID | <!--enlace-->                                                           | <!--versión--> |
+| R. OMID | https://github.com/omiidos/CC24-PoDeMaster                                                           | V.1.4 |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAÚL | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
