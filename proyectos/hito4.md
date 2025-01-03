@@ -22,7 +22,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
 | H. C. SERGIO | <!--enlace-->                                                           | <!--versión--> |
 | L. B. JOSE ANTONIO | <!--enlace-->                                                           | <!--versión--> |
-| L. C. VENTURA | <!--enlace-->                                                           | <!--versión--> |
+| L. C. VENTURA | [AIChronos](https://github.com/v-lastrucci-c/MII_CC_UGR)                | 3.0.0 |
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | M. A. JAVIER | <!--enlace-->                                                           | <!--versión--> |
