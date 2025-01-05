@@ -17,7 +17,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
-| G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
+| G. P. JAVIER | [SharCar](https://github.com/javigp2002/Sharcar/pull/31) | v.0.4.0 |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
 | H. C. SERGIO | <!--enlace-->                                                           | <!--versión--> |
