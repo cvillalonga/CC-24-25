@@ -46,3 +46,4 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
 | G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
+| del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
