@@ -13,7 +13,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
-| D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. D. ISMAEL | [RECEPITA](https://github.com/MiixZ/recepita)                                                           | 0.2. |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | G. H. EMANUEL | <!--enlace-->                                                           | <!--versión--> |
