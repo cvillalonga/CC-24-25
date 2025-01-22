@@ -41,6 +41,6 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
 | Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
+| M. S. MARIO | [StarsBar](https://github.com/martinezmario02/StarsBar.git)               | 2.0 |
 | del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
