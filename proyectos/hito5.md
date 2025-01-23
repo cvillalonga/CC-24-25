@@ -36,7 +36,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. OMID | <!--enlace-->                                                           | <!--versión--> |
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAÚL | <!--enlace-->                                                           | <!--versión--> |
-| S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
+| S. L. RAOUL | [https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-5](https://github.com/RaoulLuque/PlantSwap?tab=readme-ov-file#milestone-5) | v0.5.0 |
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
