@@ -12,7 +12,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
 | del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
-| D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
+| D. G-V. RAFAEL | [StratExam](https://github.com/rafadgvc/CC-app.git)                   | 1.0.5 |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
