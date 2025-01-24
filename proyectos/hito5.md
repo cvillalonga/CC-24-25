@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
 | O. R. ALVARO | <!--enlace-->                                                           | <!--versión--> |
-| O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
+| O. G. BRUNO | https://github.com/YordanoBOG/cc-practicas-24-25                            | 1.0 |
 | P. JAN | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | P. M. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
