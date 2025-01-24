@@ -21,7 +21,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. P. JAVIER | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
 | H. ZENNOU | <!--enlace-->                                                           | <!--versión--> |
-| H. C. SERGIO | <!--enlace-->                                                           | <!--versión--> |
+| H. C. SERGIO | [WildHaven](https://github.com/SergioHrvas/CloudComputing1MII)               | v0.6 |
 | L. B. JOSE ANTONIO | <!--enlace-->                                                           | <!--versión--> |
 | L. C. VENTURA | <!--enlace-->                                                           | <!--versión--> |
 | L. J. ALBERTO | <!--enlace-->                                                           | <!--versión--> |
