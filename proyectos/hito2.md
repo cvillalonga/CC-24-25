@@ -35,7 +35,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
 | R. F. RAÚL | <!--enlace-->                                                           | <!--versión--> |
 | S. L. RAOUL | <!--enlace-->                                                           | <!--versión--> |
-| T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
+| T. R. ISMAEL | [VolleyConnect ](https://github.com/ismeh/VolleyConnect)                                                           | v0.1.0 |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
 | V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
