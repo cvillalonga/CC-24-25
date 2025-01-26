@@ -7,7 +7,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. HADROUG | <!--enlace-->                                                           | <!--versión--> |
 | A. REZKALLAH | <!--enlace-->                                                           | <!--versión--> |
 | B. M. ANGEL | <!--enlace-->                                                           | <!--versión--> |
-| C. G. ENRIQUE | <!--enlace-->                                                           | <!--versión--> |
+| C. G. ENRIQUE | [WatchIT](https://github.com/cgenrique/WatchIT/tree/main/docs/hito5)     | 1.4.0 |
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
