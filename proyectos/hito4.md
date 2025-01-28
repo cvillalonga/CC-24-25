@@ -40,5 +40,5 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. R. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | T. C. ALBERTO JESUS | <!--enlace-->                                                           | <!--versión--> |
 | V. VICTOR LUIS | <!--enlace-->                                                           | <!--versión--> |
-| V. M. ANA LUCIA | <!--enlace-->                                                           | <!--versión--> |
+| V. M. ANA LUCIA | [QuizWiz](https://github.com/anaviico/QuizWiz)| v0.0.4 |
 | Z. BENEDIKT | <!--enlace-->                                                           | <!--versión--> |
