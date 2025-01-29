@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. S. MARINA JUN | <!--enlace-->                                                           | <!--versión--> |
 | C. R. ALEXANDER ANDRÉS | <!--enlace-->                                                           | <!--versión--> |
 | de la V. S. CARLOTA | <!--enlace-->                                                           | <!--versión--> |
-| del A. M. CRISTINA | <!--enlace-->                                                           | <!--versión--> |
+| del A. M. CRISTINA |https://github.com/cristinadam1/proyecto-CC.git>                                                           |1.0|
 | D. G-V. RAFAEL | <!--enlace-->                                                           | <!--versión--> |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G. D. ANTONIO | <!--enlace-->                                                           | <!--versión--> |
